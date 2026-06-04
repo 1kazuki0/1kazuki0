@@ -1,102 +1,77 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header" width="100%" />
 </div>
+<h1 align="center">Kazuki｜かずき</h1>
+<p align="center">
+  <a href="https://github.com/1kazuki0">
+    <img height="20" src="https://komarev.com/ghpvc/?username=1kazuki0" />
+  </a>
+  <a href="http://qiita.com/1kazuki0">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/okarina-chaan/posts.svg" />
+  </a>
+  <a href="http://qiita.com/1kazuki0">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/okarina-chaan/contributions.svg" />
+  </a>
+  <a href="https://x.com/runteq72bkazuki">
+    <img src="https://img.shields.io/badge/-@runteq72bkazuki-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
+<p align="center">
+  オンラインスクール「RUNTEQ」にてRuby on Rails を中心とした、学習を行っております。<br>
+  現在はWebアプリ開発のスキルを磨きつつ、エンジニア転職を目指しています。
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+# My App 🚀
 
-## 🌟 **About Me**
+## SokoNote（底値 × 単価記録・比較Webアプリ）
 
-<div align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e1312e5-6c13-456f-b00a-fbfc1696ddfa" />
+</p>
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
+**使用技術：**  
+Ruby / Ruby on Rails / PostgreSQL(Neon) / Docker / Tailwind CSS
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+### サービス概要
+日常の買い物において、
+  「前買ったお店とどっちの方が安かったっけ？」
+  「同じ商品で量違う。どっちの方がお得？」
+などの悩みから生まれた、底値 × 単価記録・比較Webアプリです。
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+購入した商品の値段を記録しておくことで、2度目買い物時にどちらが安いかわかります。
+また、内容量と金額を入力するだけで同じ商品でもどちらが安いか自動計算し即判断できます。
 
-</td>
-</tr>
-</table>
+### 工夫したポイント
 
-</div>
+**アプリURL：** https://sokonote.com
 
-## 📊 **GitHub Analytics**
+**GitHub URL：** https://github.com/1kazuki0/SokoNote
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
+# Award 🏆　
+2025年10月度においてオンラインスクール内で、受講生および運営からの推薦により表彰されました。
+<img width="2560" height="1440" alt="Award" src="https://github.com/user-attachments/assets/021cf597-d021-4160-b0bc-fe25895ad6df" />
 
-## 🛠️ **Tech Stack**
+---
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
+# Learning / Skills 🛠
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+## Tools
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,notion)](https://skillicons.dev)
 
-</td>
-<td width="50%" align="center" valign="top">
+## Infra / other
+- Docker（開発環境構築）
+- PostgreSQL
+- Render / Neon（デプロイ）
+- GitHub Actions（CI/CD 基礎）
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
-
-</td>
-</tr>
-</table>
-
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
-
-## 💭 **Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [user](https://github.com/user) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
-</div>
+---
